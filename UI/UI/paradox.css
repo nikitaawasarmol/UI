@@ -1,0 +1,67 @@
+.paradoxes {
+    padding: 20%;
+    padding-top: 3em;
+}
+
+.box {
+    text-align: center;
+    position: relative;
+    max-width: 7500px;
+    background: rgba(255,255,255,.2);
+    flex-direction: column-reverse;
+    box-sizing: 1fr 1fr 1fr;
+    box-shadow: 0 5px 15px rgba(212, 201, 201, 0.918);
+    padding-bottom: 5em;
+}
+.box .pr {
+    padding-right: 2em;
+}
+.box .statement {
+    padding-right: 2em;
+    padding-left: 2em;
+}
+
+.head {
+    font-family: 'Kumbh Sans', sans-serif;
+    padding: 1.3em;
+    font-size: 130%;
+}
+.statement {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+}
+.statement1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.pr {
+    font-family: 'Lato', sans-serif;
+    padding-left: 3em;
+    font-size: 97%;
+}
+
+body {
+    background: url(/UI/images/Stars-Backgrounds-\,-Best-Background-Images-\,-HD-Wallpaper.png);
+    color: rgb(255, 255, 255);
+    background-attachment: fixed;
+}
+
+.image {
+    display: flex;
+    padding-left: 1em;
+    padding-right: 2em;
+}
+.image3 {
+    padding-right: 1em;
+    width: 50%;
+}
+.image4 {
+    width: 50%;
+}
+.image5 {
+    width: 75%;
+}
+
+#link {
+    color: red;
+}
